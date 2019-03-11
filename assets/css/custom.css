@@ -1,0 +1,158 @@
+.logo{
+    width:45px;
+    height: auto;
+}
+
+.margin-null{
+    margin: 0px;
+    padding: 0px;
+}
+body {overflow-x: hidden;}
+
+.aboutUs{
+    margin: auto;
+    margin-top: 75px;
+    text-align: center;
+    display: block;
+    font-size: 3rem;
+    
+}
+
+.about{
+    margin-top: 65px;
+    padding: 12px;
+}
+
+.about-image{
+    max-width: 80%;
+    max-height: 100%;
+    margin: 10px;
+}
+
+.about-para{
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.gallery{
+    margin-top: 35px;
+}
+
+.gallery-color{
+    background: black;
+    margin-bottom: 25px;
+    padding-bottom: 50px;
+    color: white;
+}
+.carousel-frame{
+    height: 80%;
+}
+
+.member{
+    text-align: center;
+    font-size: 1.3rem;
+    display: block;
+    margin: auto;
+    margin: 10px;
+    padding: 5px;
+}
+
+.member-pic{
+    max-height: 75%;
+    max-width: 75%;
+    border-radius: 50%;
+    border-color: black;
+    margin-bottom: 10px;
+}
+
+.member-pic-board{
+    max-height: 45%;
+    max-width: 45%;
+    border-radius: 50%;
+    border-color: black;
+    margin-bottom: 10px;
+}
+
+.footer{
+    background: black;
+    opacity: ;
+    color: white;
+    text-align: center;
+    border: none;
+    margin: 0px;
+    max-width: 100%;
+    margin-top: 0px;
+}
+
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    margin: 7px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background: black;
+    border-radius: 50%;
+}
+
+
+.fa:hover {
+    background:#ffffff;
+    color: black;
+}
+
+
+
+.icon{
+    margin-top: 20px;
+}
+
+.feedback-background{
+    background: url(C:/SPE/assets/images/feedback-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 5px;
+    background-size: cover;
+    color: white;
+    padding-bottom: 100px;
+    font-size: 1.3rem;
+}
+
+.form label{
+    padding-bottom: 5px;
+}
+
+.feedback-form{
+    margin-top: 80px;
+    padding-top: 100px;
+    
+}
+
+.event-img{
+    width: 100%;
+    max-width: 100%;
+    padding: 2px;
+    margin-top: auto;
+}
+
+.event-title{
+    padding-bottom: 80px;
+}
+
+.event-gallery{
+    color: #ffffff;
+    margin-top: none;
+    padding-top: 0px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding-bottom: 80px;
+}
+
+.event-carousel-img{
+    width: 75%;
+    max-height: 500px; !important;
+    border-radius: 15px;
+}
+
